@@ -8366,5 +8366,15 @@
     "otaHeaderString": "Telink OTA Sample Usage",
     "originalUrl": "https://images.tuyaeu.com/smart/firmware/upgrade/20220907/1662545193-oem_zg_tl8258_plug_OTA_3.0.0.bin",
     "modelId": "TS011F"
+  },
+  {
+    "fileName": "drivent_013.ota",
+    "fileVersion": 13,
+    "fileSize": 213666,
+    "url": "https://raw.githubusercontent.com/Koenkk/zigbee-OTA/master/images/Sprut.device/drivent_013.ota",
+    "imageType": 11,
+    "manufacturerCode": 26214,
+    "sha512": "925cd33a6ed7c33bb32919569745b6f2495c62712c418e7b81a1e67830dd9d22a28ba1093a032022e7f0322a7cb49613d2a63118242f30ba6fa07b0dbcd0254c",
+    "otaHeaderString": ""
   }
 ]
